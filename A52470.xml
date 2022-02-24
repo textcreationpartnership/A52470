@@ -1,0 +1,177 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The last good newes from Ireland. Or, The copy of a letter sent from one Mr. Andrew Norton in Dublin, to Sir Andrew Norton of Namptwich in Cheshire and a Member of the House of Commons March 5th. 1641. Being a relation of another victory obtained by the Lord of Corkes and Sir Symon Harcourts forces neere Dublin, against the rebels, under the command of the Earle of Osmond, Captaine Butler, and Captaine Atkinson, lately revolted to the rebels, where 2000. of them were slaine, and 200 brought prisoners into Dublin. March 6th. 1641.</title>
+            <author>Norton, Andrew, Mr.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52470</idno>
+            <idno type="STC">Wing N1311A</idno>
+            <idno type="STC">ESTC R217843</idno>
+            <idno type="EEBO-CITATION">99829486</idno>
+            <idno type="PROQUEST">99829486</idno>
+            <idno type="VID">33926</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52470)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33926)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1995:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The last good newes from Ireland. Or, The copy of a letter sent from one Mr. Andrew Norton in Dublin, to Sir Andrew Norton of Namptwich in Cheshire and a Member of the House of Commons March 5th. 1641. Being a relation of another victory obtained by the Lord of Corkes and Sir Symon Harcourts forces neere Dublin, against the rebels, under the command of the Earle of Osmond, Captaine Butler, and Captaine Atkinson, lately revolted to the rebels, where 2000. of them were slaine, and 200 brought prisoners into Dublin. March 6th. 1641.</title>
+                  <author>Norton, Andrew, Mr.</author>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for John Thomas,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title on A2 (p. [1]) reads: The last true newes from Ireland, March 4. 1641.</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Leaves misbound: A1, A4, A3, A2.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  Rebellion of 1641 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:33926:1"/>
+            <pb facs="tcp:33926:1" rendition="simple:additions"/>
+            <p>The laſt good Newes FROM IRELAND.</p>
+            <p>OR, The Copy of a Letter ſent from one Mr. <hi>Andrew Norton</hi> in <hi>Dublin,</hi> to Sir <hi>Andrew Nor<g ref="char:EOLhyphen"/>ton</hi> of
+<hi>Namptwich</hi> in <hi>Cheſhire,</hi> and a Mem<g ref="char:EOLhyphen"/>ber of the Houſe of COMMONS <hi>March</hi> 5th. 1641.</p>
+            <p>Being a Relation of another Victory ob<g ref="char:EOLhyphen"/>tained by the Lord of
+<hi>Corkes</hi> and Sir <hi>Symon Harcourts</hi> forces neere <hi>Dublin,</hi> againſt the Rebels, under the Com<g ref="char:EOLhyphen"/>mand of the Earle of <hi>Oſmond,</hi> Captaine <hi>Butler,</hi> and Captaine <hi>Atkinſon,</hi> lately revolted to the Re<g ref="char:EOLhyphen"/>bels, where 2000 of them were ſlaine, and 200 brought priſoners into
+<hi>Dublin.</hi>
+            </p>
+            <p>
+               <hi>March</hi> 6th. 1641.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>John Thomas,</hi> 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:33926:4"/>
+            <pb facs="tcp:33926:4"/>
+            <head>The laſt true Newes from <hi>Ireland,</hi>
+               <date>
+                  <hi>March</hi> 4. 1641.</date>
+            </head>
+            <opener>
+               <salute>Noble Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hinke not ſtrange, that I have been ſo long abſent, ſince I pre<g ref="char:EOLhyphen"/>ſume you (being a Member of the Parliament) know how our paſſage is ſtopt, and that no perſon whatſoever, muſt leave the Kingdome, without warrant from the Lord Iuſtices, we having ſuchuſe for men, and ſuch encourage<g ref="char:EOLhyphen"/>ment to take up Armes to offend our Ene<g ref="char:EOLhyphen"/>mies, and to defend our ſelves, wherefore I have thought it agreeable to the engagement of my ſervice, to ſend you (by this Gentle<g ref="char:EOLhyphen"/>man now bound for <hi>England,</hi> upon command to the Parliament) a true Relation of lateſt proceedings here, which God be thanked hath been happy and proſperous, Though at the firſt the danger appeared greater, then we knew how to avoyd, for upon
+<hi>Wedneſday</hi> 
+               <pb n="2" facs="tcp:33926:3"/> being the ſecond of <hi>March,</hi> a party of the Rebels, to the number of 7000 foote and 200 horſe, were diſcryed upon March with<g ref="char:EOLhyphen"/>in 4. myles of <hi>Dublin,</hi> vnder the Command of <hi>Oſmond,</hi> Captain
+<hi>Butler,</hi> and Captain <hi>Ad<g ref="char:EOLhyphen"/>dam Adkinſon</hi> lately revolted to the Rebels, who hearing that the Lord Lievtenants Re<g ref="char:EOLhyphen"/>giments were landed, and that Sir <hi>Addam Lof<g ref="char:EOLhyphen"/>tus,</hi> my Lord of <hi>Corke,</hi> the Lord luſtices, and Sir <hi>Symon Harcourt,</hi> were marched out of the Town to meet and entertain
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ir <hi>Richard Green<g ref="char:EOLhyphen"/>vill</hi> their Commander, who as yet had not joyned with us in
+<hi>Dublin,</hi> onely he had a ſleight entertainment before
+<hi>Droheda,</hi> at his firſt Arrivall.</p>
+            <p>The ſight of theſe unexpected Enemies, put us in a fright, having not above 300. Foote that were in the Workes, our other forces, being diſtant almoſt 7. <hi>Iriſh</hi> myles in this diſtraction, every man that was capable of bearing Armes, put himſelfe into a Martiall forme, reſolving to hazard his life for de<g ref="char:EOLhyphen"/>fence of his liberty, ſo that in one houre we were a pretty handſome Army to the num<g ref="char:EOLhyphen"/>ber of 4000. whom Sir
+<hi>Charles Coote</hi> (as it was Gods will, being not well ſtayd in the City) <pb n="3" facs="tcp:33926:3"/> put in order, and fortified the workes, diſ<g ref="char:EOLhyphen"/>patching withall, Meſſengers to our other forces, to haſten their Arrivall, which being done, and we in compleat order, their Mar<g ref="char:EOLhyphen"/>tiall Drums pierc't our undanted Eares, who were prepared to entertain them, they with like courage gave the aſſault, and charged us very fiercely, and had not our workes beene a great ſafeguard for vs, we had loſt many men, and hazarded our Block-houſe but our Canons made Laynes amongſt them, ſo that the Earth was covered with their dead Bo<g ref="char:EOLhyphen"/>dies, two myles in length, 3 hours this ſkir<g ref="char:EOLhyphen"/>miſh laſted, Victory inclining to neither par<g ref="char:EOLhyphen"/>ty, vntill at length, our other Forces hearing of this newes; made haſt vnto our Reſcue, &amp; charged them on the Reare, which vnexpected Ayd did ſo much amaze them, ſeeing them<g ref="char:EOLhyphen"/>ſelves ingaged almoſt beyond Retreat, they as regardleſſe of their lives or fortunes, charg either party with vndaunted courage, but the other charging of the workes but ſlight<g ref="char:EOLhyphen"/>ly, onely to keepe us from ſallying out, thinking to force a paſſage through the Body of our Army, in deſpight of reſiſtance, but all in vaine, for our new come Engliſh pla<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d <pb n="4" facs="tcp:33926:2"/> their parts ſo well, that they taught the Iriſh what Rebellion was.</p>
+            <p>Sir <hi>Richard Greenvill</hi> a Noble Gentleman expreſſed his courage almoſt beyond be<g ref="char:EOLhyphen"/>liefe, he ſlew like Lightning through the Rebels Troopes, and ſo diſperſt their order, that they amazed began adace to fly, to meet with death that was in purſuite of them, at length Captain
+<hi>Atkinſon</hi> brought up a wing, and met Sir <hi>Richard Greenvill</hi> face to face betwixt whom begun a great skirmiſh, who did fight, as each had ſtrived, who firſt ſhould looſe his life, death tryumphs in his Colours, Sulphurous ſmoake darkned the Ayre, each man did grieve to ſee ſo much blood ſhed, yet knew no Victory, for that was doubtfull, untill hand to hand by noble <hi>Greenvill, Atkinſon</hi> was ſlaine, then they be<g ref="char:EOLhyphen"/>gan to fly, And ſome did yeeld themſelve unto our mercy, which were brought in<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the City of
+<hi>Dublin,</hi> to the number of 200, an 2000 of the reſt were ſlaine, onely <hi>Oſmond</hi> with the remainder of his Troopes of horſe eſcaped awey, and left us to Congratulate our happy Victory.</p>
+            <p>
+               <pb n="5" facs="tcp:33926:2"/>This defeate hath ſo encouraged us, that we are almoſt feareleſſe of any danger, one<g ref="char:EOLhyphen"/>ly we expect more ſupplyes from <hi>England</hi> And then we doubt not, but that we ſhall tame this Rebellious Route, for other Newes we have little for the preſent, one<g ref="char:EOLhyphen"/>ly Victuals is ſcarce and deare with us, And (God willing) the next occaſion that offers it ſelfe, I will give you true iutelligence, for theſe proceedings, I my ſelfe was an eye<g ref="char:EOLhyphen"/>witneſſe of it, therefore I have thought good to give you uotice of it, ſo for this time I Reſt,</p>
+            <closer>
+               <signed>Your Servant to be Commanded. Edward Norton.</signed> 
+               <dateline>
+                  <hi>From Dublin</hi>
+                  <date>5th. <hi>of Marco,</hi> 1641.</date>
+               </dateline>
+               <salute>Directed to Sir <hi>Andrew Norton,</hi> Inhabi<g ref="char:EOLhyphen"/>tant at
+<hi>Namptwich</hi> in <hi>Cheſhire,</hi> and now re<g ref="char:EOLhyphen"/>ſident in
+<hi>London.</hi>
+               </salute>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:33926:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
